@@ -4,7 +4,7 @@ Plataforma de servicios backend desarrollada con **FastAPI** que integra, en una
 
 ---
 
-## 🚀 Módulos Disponibles
+##  Módulos Disponibles
 
 1. **Cadenas y Lenguajes Formales:** 
    - Operaciones sobre cadenas (concatenación, inversión, potencias).
@@ -22,7 +22,7 @@ Plataforma de servicios backend desarrollada con **FastAPI** que integra, en una
 
 ---
 
-## 🛠️ Requisitos del Sistema
+##  Requisitos del Sistema
 
 - **Python** (versión 3.10 o superior recomendada).
 - Librerías necesarias:
@@ -32,7 +32,7 @@ Plataforma de servicios backend desarrollada con **FastAPI** que integra, en una
 
 ---
 
-## ⚙️ Instalación y Configuración
+##  Instalación y Configuración
 
 1. Clona o descarga el repositorio en tu equipo local.
 2. Abre una terminal (como PowerShell en Windows) y navega hasta la carpeta del proyecto.
@@ -43,7 +43,7 @@ Plataforma de servicios backend desarrollada con **FastAPI** que integra, en una
 
 ---
 
-## ▶️ Ejecución del Servidor
+##  Ejecución del Servidor
 
 Para evitar bloqueos de ejecución de ejecutables (`.exe`) en entornos con políticas estrictas de Windows, arranca la aplicación utilizando Uvicorn como módulo de Python:
 
@@ -55,7 +55,7 @@ Una vez iniciado el servidor, verás una salida indicando que está activo en `h
 
 ---
 
-## 📖 Documentación Interactiva (Swagger UI)
+##  Documentación Interactiva (Swagger UI)
 
 Una vez que el servidor esté en marcha, abre tu navegador web favorito y accede a:
 
